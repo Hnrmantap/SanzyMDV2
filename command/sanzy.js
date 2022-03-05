@@ -1163,7 +1163,7 @@ await sanzy.updateBlockStatus(users, 'unblock').then((res) => m.reply(jsonformat
 }
 break
 case 'sc': {
-m.reply('Cari Sc Ya kak?Nih\nhttps://github.com/sanzykawaiiii/SanzyMDV2')
+m.reply('Cari Sc Ya kak ketik .owner')
 }
 break
 
